@@ -1,0 +1,12 @@
+D:\console apps c#\ReactAPI\ReactDataModel\bin\Debug\net6.0\ReactDataModel.deps.json
+D:\console apps c#\ReactAPI\ReactDataModel\bin\Debug\net6.0\ReactDataModel.dll
+D:\console apps c#\ReactAPI\ReactDataModel\bin\Debug\net6.0\ReactDataModel.pdb
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.csproj.AssemblyReference.cache
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.AssemblyInfoInputs.cache
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.AssemblyInfo.cs
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.csproj.CoreCompileInputs.cache
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.dll
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\refint\ReactDataModel.dll
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ReactDataModel.pdb
+D:\console apps c#\ReactAPI\ReactDataModel\obj\Debug\net6.0\ref\ReactDataModel.dll
