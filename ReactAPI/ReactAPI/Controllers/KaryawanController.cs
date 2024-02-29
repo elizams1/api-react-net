@@ -14,7 +14,7 @@ namespace ReactAPI.Controllers
         {
             karyawan = new DAKaryawan(_db);
         }
-        //OBCD
+        //HANA DUL SET
         [HttpGet]
         public VMResponse GetAll()
         {

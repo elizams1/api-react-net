@@ -15,3 +15,21 @@ D:\console apps c#\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.dll
 D:\console apps c#\ReactAPI\ReactDataAccess\obj\Debug\net6.0\refint\ReactDataAccess.dll
 D:\console apps c#\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.pdb
 D:\console apps c#\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ref\ReactDataAccess.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactDataAccess.deps.json
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactDataAccess.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactDataAccess.pdb
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactDataModel.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactViewModel.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactDataModel.pdb
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\bin\Debug\net6.0\ReactViewModel.pdb
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.sourcelink.json
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.csproj.CopyComplete
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\refint\ReactDataAccess.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ReactDataAccess.pdb
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactDataAccess\obj\Debug\net6.0\ref\ReactDataAccess.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\console apps c#\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\react-and-net\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj": {}
   },
   "projects": {
-    "D:\\console apps c#\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj": {
+    "C:\\Users\\HP\\source\\repos\\react-and-net\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\console apps c#\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\react-and-net\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj",
         "projectName": "ReactViewModel",
-        "projectPath": "D:\\console apps c#\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\react-and-net\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\console apps c#\\ReactAPI\\ReactViewModel\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Source\\Repos\\react-and-net\\ReactAPI\\ReactViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

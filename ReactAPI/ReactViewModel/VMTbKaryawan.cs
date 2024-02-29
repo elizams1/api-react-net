@@ -12,4 +12,6 @@ public class VMTbKaryawan
     public string Alamat { get; set; } = null!;
     public string PendidikanTerakhir { get; set; } = null!;
     public DateTime? TglMasuk { get; set; }
+
+    //satu
 }

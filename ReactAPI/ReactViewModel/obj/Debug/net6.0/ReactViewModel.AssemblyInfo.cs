@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactViewModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3dd2cdf6d4d4fb573c3382040236e14dc5bbe93")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactViewModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactViewModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
